@@ -19,8 +19,8 @@ v porovnání s ostatními položkami na seznamu relativně lehce dostupná, je 
 
 Musím ještě doplnit, že naše skupina fanoušků kvalitního fotbalu se od minulého
 roku rozrostla o 100 % (ze tří na šest členů) a každý měl malinko jiné preference.
-I tak se ale nakonec pět z nás shodlo, že bychom mohli vyrazit na dva zápasy
-24. kola [Premier League](https://cs.wikipedia.org/wiki/Premier_League)
+I tak se ale nakonec pět z nás shodlo, že bychom mohli vyrazit na dva zápasy 24.
+kola [Premier League](https://cs.wikipedia.org/wiki/Premier_League)
 do severozápadní [Anglie](https://cs.wikipedia.org/wiki/Anglie), konrétně
 do [Liverpoolu](https://cs.wikipedia.org/wiki/Liverpool)
 a [Manchesteru](https://cs.wikipedia.org/wiki/Manchester). Abych byl naprosto
