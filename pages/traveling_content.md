@@ -30,3 +30,7 @@ description: traveling section content page.
 - [Dolomity](traveling_2022_Dolomites.html)
 - [Dubrovník](traveling_2022_Dubrovnik.html)
 - [Paříž](traveling_2022_Pariz.html)
+
+### 2023
+
+- [Liverpool & Manchester](traveling_2023_Manchester.html)
