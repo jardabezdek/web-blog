@@ -1,44 +1,24 @@
 ---
 layout: page
 title: blog
-tagline: o datové analýze, programování a cestování
-description: Personal blog dedicated to my passions - data analysis, coding and traveling.
+tagline: o mých cestách
+description: Personal blog dedicated to traveling.
 ---
 
-Milí čtenáři, vítejte!
+Milí čtenáři, vítejte! 👋
 
-Před nějakým časem jsem si uvědomil, že soubor informací a znalostí, které
-každodenně využívám při své práci, mohu rozdělit na dvě skupiny:
+Před tím, než vyrazím na nějakou cestu, investuji do příprav mnoho úsílí, času i peněz. A kdybych si
+po návratu nezapsal, co jsem viděl a co jsem zažil, rychle bych na mnoho zážitků zapomněl a prakticky
+tak zahodil většinu prvotního úsilí, které jsem přípravám věnoval. I proto jsem se rozhodl založit
+tento cestovatelský blog, kam zaznamenávám nejen svoje dojmy, poznatky a rozumy, ale občas i cenné
+rady a tipy! A taky u toho teda protřídím fotky! 📸
 
-- znalosti, které mám uložené v poznámkách na mém počítači, nebo v mojí hlavě a
-- informace, které nepotřebuji k práci tak často, což vede ke skutečnosti, že je
-nemám zapsané nikde.
+**Seznam článků naleznete 👉👉👉 [ZDE](pages/content.html) 👈👈👈**
 
-Myslím si, že nejsem výjimkou, když přiznám, že v mém případě je více mých
-znalostí obsaženo v té druhé z&nbsp;výše popsaných skupin. Tato skutečnost vede
-k tomu, že velkou část svého pracovního života trávím hledáním, či potvrzováním,
-informací, které jsem už jednou hledal a také úspěšně našel.
+Věřím, že vás jejich čtení bude bavit! ❤️
 
-Aby se můj čas při hledání takových informací zkrátil na minimum, rozhodl jsem
-se, že založím tento blog, který bude sloužit spíše jako moje osobní
-[báze znalostí](https://cs.wikipedia.org/wiki/B%C3%A1ze_znalost%C3%AD). Kromě
-svých znalostí bych zde rád sdílel i svoje poznámky z&nbsp;cest, což ve výsledku
-znamená, že v současné době budu na blog přispívat články pokrývajícími jeden
-z&nbsp;následujících tři tématických okruhů:
-
-- [datová analýza](pages/data_analysis_content.html),
-- [programování](pages/programming_content.html),
-- [cestování](pages/traveling_content.html).
-
-Pokud najdete na blogu chybu, nebo byste mě rádi kontaktovali s jinými postřehy,
-budu rád, pokud napíšete na&nbsp;následující e-mailovou adresu:
-`bezdekjarda@seznam.cz`
-
-<!--
-pro zkrášlení kodu mohu použít následující web: http://hilite.me/
- - nejlepší nastavení je asi Language: Python, Style: default
- - po vyrenderování se musí ještě smazat padding z div style (!!!)
--->
+ℹ️ Pokud najdete na blogu chybu, nebo byste mě rádi kontaktovali s jinými postřehy, budu rád, pokud
+napíšete na&nbsp;následující e-mailovou adresu: `bezdekjarda@seznam.cz` 🙏
 
 ---
 

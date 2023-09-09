@@ -1,7 +1,7 @@
 ---
 layout: page
-title: cestování
-tagline: obsah
+title: seznam článků
+tagline: 
 description: traveling section content page.
 ---
 
