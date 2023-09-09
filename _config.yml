@@ -5,11 +5,11 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
 title: blog
-production_url: https://sasanka20.github.io/blog
+production_url: https://jardabezdek.github.io/web-blog
 author:
   name: Jaroslav Bezdek
   email: bezdekjarda@seznam.cz
-  github: sasanka20
+  github: jardabezdek
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -19,7 +19,7 @@ markdown: kramdown
 JB:
   version: 0.3.0
 
-  BASE_PATH: https://sasanka20.github.io/blog
+  BASE_PATH: https://jardabezdek.github.io/web-blog
 
   archive_path: nil
   categories_path: nil
