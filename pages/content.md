@@ -36,3 +36,4 @@ description: traveling section content page.
 - [🇬🇧 Liverpool & Manchester](traveling_2023_Manchester.html)
 - [🇮🇸 Island](traveling_2023_Island.html)
 - [🇲🇾 Malajsie & 🇸🇬 Singapur](traveling_2023_Malajsie.html)
+- [🇮🇪 Irsko](traveling_2023_Irsko.html)
