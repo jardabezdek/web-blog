@@ -613,4 +613,5 @@ Fotky z Dolomit najdete [zde](https://photos.app.goo.gl/jXrqSh37icwFpc4W8).
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

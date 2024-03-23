@@ -468,4 +468,5 @@ Fotky z [Mallorcy](https://cs.wikipedia.org/wiki/Mallorca) najdete
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

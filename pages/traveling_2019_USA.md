@@ -485,4 +485,5 @@ Fotky z USA najdete [zde](https://photos.app.goo.gl/PgKPYdYnc88GRNwz8).
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

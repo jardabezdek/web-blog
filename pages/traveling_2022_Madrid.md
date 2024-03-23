@@ -455,4 +455,5 @@ Fotky z [Madridu](https://cs.wikipedia.org/wiki/Madrid) najdete
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

@@ -730,4 +730,4 @@ najdete [zde](https://photos.app.goo.gl/kXaxDAv3hMFP9Jek8).
 
 [blog](../index.html)
 
-- [cestování](traveling_content.html)
+- [seznam článků](content.html)

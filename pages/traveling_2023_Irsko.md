@@ -295,4 +295,4 @@ najdete [zde](https://photos.app.goo.gl/mAky8Cc6sMprzzmp8).
 
 [blog](../index.html)
 
-- [cestování](traveling_content.html)
+- [seznam článků](content.html)

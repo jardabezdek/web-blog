@@ -122,4 +122,5 @@ Fotky z Krakova najdete [zde](https://photos.app.goo.gl/gBTGBJZVJyc4cAE58).
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

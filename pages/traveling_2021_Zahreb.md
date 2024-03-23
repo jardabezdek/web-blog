@@ -245,4 +245,5 @@ Fotky ze [Záhřebu](https://cs.wikipedia.org/wiki/Z%C3%A1h%C5%99eb) najdete
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

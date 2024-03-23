@@ -71,7 +71,6 @@ První den našeho pobytu byl značně ovlivněn počasím. Podle předpovědi m
 celého dne pršet, takže jsme se snažili naplánovat program tak, abychom byli
 co nejméně vystaveni dešti.
 
-
 Po snídani jsme se tedy vydali na
 <a name="rosenborg">[zámek Rosenborg](https://cs.wikipedia.org/wiki/Rosenborg)</a>,
 který v minulosti sloužil jako sídlo dánského krále. Dnes jsou ve sklepení zámku
@@ -360,4 +359,5 @@ Fotky z Kodaně najdete [zde](https://photos.app.goo.gl/218TuP4UKrawsV4KA).
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

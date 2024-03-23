@@ -414,4 +414,5 @@ najdete [zde](https://photos.app.goo.gl/XYkVTMt1PxawfiYd7).
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

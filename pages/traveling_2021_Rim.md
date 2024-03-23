@@ -491,4 +491,5 @@ Fotky z [Říma](https://cs.wikipedia.org/wiki/%C5%98%C3%ADm) najdete
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

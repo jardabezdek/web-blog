@@ -493,4 +493,5 @@ najdete [zde](https://photos.app.goo.gl/UadYaGmTv9DUfMzW7).
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

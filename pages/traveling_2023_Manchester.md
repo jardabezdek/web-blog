@@ -312,7 +312,7 @@ klubu, aby poukázali na odvrácenou tvář slavného
 
 *Kritika slavného klubu za jedním z oken poblíž
 [stadionu Anfield](https://cs.wikipedia.org/wiki/Anfield).
-Zdroj: https://footballandmaterialculture.com/2013/04/07/anfield-road-liverpool/*
+Zdroj: <https://footballandmaterialculture.com/2013/04/07/anfield-road-liverpool/>*
 
 &nbsp;
 
@@ -690,4 +690,5 @@ najdete [zde](https://photos.app.goo.gl/tKicMKG1j3nde6qA8).
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

@@ -496,4 +496,5 @@ Fotky ze [Stockholmu](https://cs.wikipedia.org/wiki/Stockholm) najdete
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

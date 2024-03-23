@@ -102,4 +102,5 @@ Fotky z Londýna najdete [zde](https://photos.app.goo.gl/mzX5h3WVv8mZVpMD7).
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)

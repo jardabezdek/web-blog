@@ -91,4 +91,5 @@ Fotky z [Vídně](https://cs.wikipedia.org/wiki/V%C3%ADde%C5%88) najdete
 ---
 
 [blog](../index.html)
-- [cestování](traveling_content.html)
+
+- [seznam článků](content.html)
