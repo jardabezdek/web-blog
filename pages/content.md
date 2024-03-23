@@ -38,3 +38,7 @@ description: traveling section content page.
 - [🇲🇾 Malajsie & 🇸🇬 Singapur](traveling_2023_Malajsie.html)
 - [🇮🇪 Irsko](traveling_2023_Irsko.html)
 - [🇬🇧 Londýn](traveling_2023_Londyn.html)
+
+### 2024
+
+- [🇳🇦 Namibie](traveling_2024_Namibie.html)
