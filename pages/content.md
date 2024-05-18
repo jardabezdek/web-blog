@@ -42,3 +42,4 @@ description: traveling section content page.
 ### 2024
 
 - [🇳🇦 Namibie](traveling_2024_Namibie.html)
+- [🇺🇸 New York](traveling_2024_NYC.html)
