@@ -1,8 +1,9 @@
 FROM jekyll/jekyll:4.1.0 as blog-base
 MAINTAINER Jaroslav Bezdek
 
-COPY Gemfile .
-# COPY Gemfile.lock .
+COPY Gemfile Gemfile.lock ./
+
+RUN gem update --system 3.3.22
 
 RUN bundle install
 
