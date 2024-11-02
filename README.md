@@ -13,8 +13,8 @@
 
 1. Go to the project folder: `cd ~/projects/web-blog`
 2. Build docker container: `docker build -t web-blog:latest .`
-3. Run docker container: `docker-compose up --build`
-4. Enjoy the blog running on the following URL address: http://localhost:4000
+3. Run docker container: `docker compose up --build`
+4. Enjoy the blog running on the following URL address: [http://localhost:4000](http://localhost:4000)
 
 In case some issues occure, try to delete `Gemfile.lock` and rebuild the image
 again.

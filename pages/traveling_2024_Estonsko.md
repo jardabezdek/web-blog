@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Estonsko
-tagline: září 2024
+tagline: srpen 2024
 description: Description of our trip to Estonia.
 ---
 
