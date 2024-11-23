@@ -45,3 +45,4 @@ description: traveling section content page.
 - [🇺🇸 New York](traveling_2024_NYC.html)
 - [🇪🇪 Estonsko](traveling_2024_Estonsko.html)
 - [🇮🇸 Island](traveling_2024_Island.html)
+- [🇮🇪 Dublin](traveling_2024_Dublin.html)
