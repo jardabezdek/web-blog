@@ -1,36 +1,17 @@
-<div align="center">
-  <img src="./public/favicon.svg" alt="PlainPage" width="100" />
-</div>
+## :rocket: web-blog
 
-# PlainPage
+- This is repository with my travel blog.
+- Blog is written in Czech and can be found [here](https://jardabezdek.github.io/web-blog/).
 
-A fast, text-focused, minimalist blog.
+## :pencil: Authors
 
-[English](./README.md) | [中文](./README.zh-CN.md)
+- [Jaroslav Bezdek](https://www.github.com/jardabezdek)
 
-## Live Demo
+## :construction_worker_man: Setup
 
-- [Github Pages Demo](https://churchtao.github.io/PlainPage/)
+### How to dev
 
-## Features
-
-- 🚀 Fast: 100% static, no server-side rendering
-- 📖 Simple: Just markdown files
-- 🌈 Customizable: Customize the theme and layout
-- 📚 SEO-friendly: Support for SEO
-- 📱 Responsive: Support for mobile devices
-- 📦 Based on [astro](https://astro.build) version latest
-
-## ✅ Lighthouse Score
-
-[![lighthouse](/screenshots/lighthouse-score.svg)](https://pagespeed.web.dev/analysis/https-churchtao-github-io-PlainPage/e1mpmv9swy?form_factor=desktop)
-
-## Screenshots
-
-![light](/screenshots/light.png)
-![dark](/screenshots/dark.png)
-
-## 🚀 Project Structure
+Project has the following structure:
 
 ```text
 ├── public/
@@ -97,7 +78,7 @@ export const BLOG_CONFIG = {
 };
 ```
 
-## 🧞 Commands
+### Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -110,21 +91,8 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## Credit
+## :pray: Credit
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
-
-Inspired by [satnaing/astro-paper](https://github.com/satnaing/astro-paper).
+This page is based on the lovely [PlainPage](https://github.com/ChurchTao/PlainPage) theme.
 
 Based on [astro](https://astro.build).
-
-## Sites using this theme
-
-- [毛桃的小世界](https://毛桃.top)
-- [Mobai's Blog](https://blog.loliowo.com)
-
-👏 You can submit your site to the list by creating a PR.
-
-## 📜 License
-
-Licensed under the [MIT](./LICENSE) License, Copyright © 2024
