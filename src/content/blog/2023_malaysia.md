@@ -11,7 +11,7 @@ tags:
 ---
 
 
-![Picture](images/traveling_2023_Malajsie_image.jpg)
+![Picture](images/2023_Malajsie_image.jpg)
 
 &nbsp;
 
@@ -113,7 +113,7 @@ totiž začínala řadou 9. A v tom mě to trklo - dostal jsem
 
 &nbsp;
 
-![Palubní vstupenka](images/traveling_2023_Malajsie_day_0_palubni_vstupenka.jpg)
+![Palubní vstupenka](images/2023_Malajsie_day_0_palubni_vstupenka.jpg)
 
 *Moje vstupenka do vyšší společnosti.*
 
@@ -155,7 +155,7 @@ mi polštář.
 
 &nbsp;
 
-![První třída](images/traveling_2023_Malajsie_day_0_prvni_trida.jpg)
+![První třída](images/2023_Malajsie_day_0_prvni_trida.jpg)
 
 *V [první třídě](https://cs.wikipedia.org/wiki/Prvn%C3%AD_t%C5%99%C3%ADda) nebyla o místo na nohy nouze.*
 
@@ -190,7 +190,7 @@ jsem hledal, byly záchody. Naštěstí všechno dobře dopadlo!
 
 &nbsp;
 
-![Thean Hou](images/traveling_2023_Malajsie_day_1_Thean_Hou.jpg)
+![Thean Hou](images/2023_Malajsie_day_1_Thean_Hou.jpg)
 
 *Čínský chrám [Thean Hou](https://www.cestujlevne.com/pruvodce/malajsie/kuala-lumpur/thean-hou-temple).*
 
@@ -287,7 +287,7 @@ se vytvořit co nejhezčí fotku.
 
 &nbsp;
 
-![KLCC Park](images/traveling_2023_Malajsie_day_2_KLCC_Park.jpg)
+![KLCC Park](images/2023_Malajsie_day_2_KLCC_Park.jpg)
 
 *Pohled na [Petronas Twin Towers](https://cs.wikipedia.org/wiki/Petronas_Twin_Towers)
 z [KLCC Parku](https://www.cestujlevne.com/pruvodce/malajsie/kuala-lumpur/klcc-park).*
@@ -345,7 +345,7 @@ protože jsem se v jejich přítomnosti necítil úplně bezpečně.
 
 &nbsp;
 
-![Batu caves](images/traveling_2023_Malajsie_day_3_Batu_caves.jpg)
+![Batu caves](images/2023_Malajsie_day_3_Batu_caves.jpg)
 
 *Zlatá socha boha Murugana vedle barevných schodů vedoucích
 k [Batu Caves](https://www.cestujlevne.com/pruvodce/malajsie/kuala-lumpur/batu-caves).*
@@ -370,7 +370,7 @@ Název města tedy nabízí polopravdivé vysvětlení, proč je voda v místní
 
 &nbsp;
 
-![River of Life](images/traveling_2023_Malajsie_day_3_River_of_life.jpg)
+![River of Life](images/2023_Malajsie_day_3_River_of_life.jpg)
 
 *Jedna z nejstarších mešit na území [Kuala Lumpur](https://cs.wikipedia.org/wiki/Kuala_Lumpur),
 [Masjid Jamek](https://www.cestujlevne.com/pruvodce/malajsie/kuala-lumpur/masjid-jamek). Ta stojí
@@ -400,7 +400,7 @@ do [hotelu](https://www.booking.com/hotel/my/santa-grand-signature-kuala-lumpur-
 
 &nbsp;
 
-![Karthi](images/traveling_2023_Malajsie_day_3_Karthi.jpg)
+![Karthi](images/2023_Malajsie_day_3_Karthi.jpg)
 
 *Selfie s Karthim.*
 
@@ -436,7 +436,7 @@ připraven oběd.
 
 &nbsp;
 
-![PyCon MY 2023](images/traveling_2023_Malajsie_day_4_pycon.jpg)
+![PyCon MY 2023](images/2023_Malajsie_day_4_pycon.jpg)
 
 *Tady podle mě říkám nějakej vtip. Možná něco jako: "Víte, co se stane s žábou, když je jí pět let?
 ... Táhne jí na šestej!"*
@@ -508,7 +508,7 @@ ve kterých se mj. nachází stezka korunami umělých stromů.
 
 &nbsp;
 
-![Marina Bay](images/traveling_2023_Malajsie_day_5_Marina_bay.jpg)
+![Marina Bay](images/2023_Malajsie_day_5_Marina_bay.jpg)
 
 *[Hotel Marina Bay Sands](https://cs.wikipedia.org/wiki/Marina_Bay_Sands)
 a [ArtScience Museum](https://en.wikipedia.org/wiki/ArtScience_Museum).*
@@ -556,7 +556,7 @@ určitě stál!
 
 &nbsp;
 
-![Marina Bay](images/traveling_2023_Malajsie_day_5_Buddha_Tooth_Relic.jpg)
+![Marina Bay](images/2023_Malajsie_day_5_Buddha_Tooth_Relic.jpg)
 
 *[Buddha Tooth Relic](https://en.wikipedia.org/wiki/Buddha_Tooth_Relic_Temple_and_Museum).*
 
@@ -608,7 +608,7 @@ v [Malajsii](https://cs.wikipedia.org/wiki/Malajsie) ochutnal.
 
 &nbsp;
 
-![Chinatown](images/traveling_2023_Malajsie_day_6_Chinatown.jpg)
+![Chinatown](images/2023_Malajsie_day_6_Chinatown.jpg)
 
 *[Chinatown](https://www.cestujlevne.com/pruvodce/malajsie/kuala-lumpur/chinatown).*
 

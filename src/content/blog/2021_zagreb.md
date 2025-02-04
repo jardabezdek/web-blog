@@ -11,7 +11,7 @@ tags:
 ---
 
 
-![Kostel sv. Marka](images/travelling_2021_Zahreb_image.jpeg)
+![Kostel sv. Marka](images/2021_Zahreb_image.jpeg)
 
 &nbsp;
 

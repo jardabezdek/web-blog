@@ -10,7 +10,7 @@ tags:
   - služební-cesta
 ---
 
-![Temple Bar](images/traveling_2024_Dublin_image.jpeg)
+![Temple Bar](images/2024_Dublin_image.jpeg)
 
 &nbsp;
 
@@ -146,7 +146,7 @@ ze světa zvířat, jí přišel "crazy"! 😁
 
 &nbsp;
 
-![PyCon](images/traveling_2024_Dublin_day_2_pycon.jpeg)
+![PyCon](images/2024_Dublin_day_2_pycon.jpeg)
 
 *Bla bla bla...*
 
@@ -217,7 +217,7 @@ která už římskokatolickým kostelem skutečně je!
 
 &nbsp;
 
-![Katedrála sv. Patrika](images/traveling_2024_Dublin_day_3_patrick.jpeg)
+![Katedrála sv. Patrika](images/2024_Dublin_day_3_patrick.jpeg)
 
 *Katedrála sv. Patrika, kam jsme šli na nedělní mši.*
 
@@ -239,7 +239,7 @@ byli už zpět v centru na večeři.
 
 &nbsp;
 
-![Guinness](images/traveling_2024_Dublin_day_3_guinness.jpeg)
+![Guinness](images/2024_Dublin_day_3_guinness.jpeg)
 
 *Adam, já a velké logo značky [Guinness](https://cs.wikipedia.org/wiki/Guinness)
 ve vstupní hale [Guinness Storehouse](https://www.guinness-storehouse.com/en/home).*
@@ -278,7 +278,7 @@ na [dublinské letiště](https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Dublin
 
 &nbsp;
 
-![Molly Malone](images/traveling_2024_Dublin_day_4_statue.jpeg)
+![Molly Malone](images/2024_Dublin_day_4_statue.jpeg)
 
 *Při procházce centrem jsme se zastavili
 i u sochy [Molly Malone](https://en.wikipedia.org/wiki/Molly_Malone).*

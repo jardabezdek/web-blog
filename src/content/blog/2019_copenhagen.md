@@ -11,7 +11,7 @@ tags:
 ---
 
 
-![Designmuseum Danmark](images/traveling_2019_Kodan_image.jpg)
+![Designmuseum Danmark](images/2019_Kodan_image.jpg)
 
 &nbsp;
 
@@ -343,7 +343,7 @@ nepřipadalo v úvahu, např.:
   skoro každému až do kuchyně,
   - prakticky každé kolo, které člověk ve městě vidí, vypadá jako kolo z
   [Bajkazylu](http://www.bajkazylbrno.cz/#cyklodilna),
-  - oblečení, příkladem může být třeba [tato bunda](images/travelling_rains_coat.jpg) dánské oděvní značky [Rains](https://www.rains.com/).
+  - oblečení, příkladem může být třeba [tato bunda](images/rains_coat.jpg) dánské oděvní značky [Rains](https://www.rains.com/).
 - Počasí (zvláště) v prosinci je chladné.
 - Budovy v industriálních částech města, které nejsou ozdobeny vánočními dekoracemi,
 jsou chladné.

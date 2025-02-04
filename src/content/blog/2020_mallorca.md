@@ -10,7 +10,7 @@ tags:
   - evropa
 ---
 
-![Es Colomer](images/travelling_2020_Mallorca_image.jpg)
+![Es Colomer](images/2020_Mallorca_image.jpg)
 
 &nbsp;
 
@@ -125,7 +125,7 @@ Zbytek jsme došli pěšky. Ten večer jsem si dal hamburger s vejcem a hranolka
 Byl první den, takže mi jídlo z fast foodu ještě relativně chutnalo.
 
 Po večeři pršet přestalo, takže jsme se alespoň prošli po
-[místní promenádě](images/travelling_promenada_Port_de_Pollenca.jpg) a
+[místní promenádě](images/promenada_Port_de_Pollenca.jpg) a
 v obchodě nakoupili jídlo na další dny.
 
 &nbsp;

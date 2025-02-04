@@ -11,7 +11,7 @@ tags:
 ---
 
 
-![Radhuset](images/traveling_2022_Stockholm_image.jpg)
+![Radhuset](images/2022_Stockholm_image.jpg)
 
 &nbsp;
 

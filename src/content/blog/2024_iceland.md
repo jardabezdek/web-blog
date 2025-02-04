@@ -9,7 +9,7 @@ tags:
   - dovolená
 ---
 
-![Budir](images/traveling_2024_Island_image.jpeg)
+![Budir](images/2024_Island_image.jpeg)
 
 &nbsp;
 
@@ -186,7 +186,7 @@ tuhle sociální stránku food walku jsem si užil ze všeho nejvíce. 😊
 
 &nbsp;
 
-![Food Walk](images/traveling_2024_Island_day_1_food_walk.jpg)
+![Food Walk](images/2024_Island_day_1_food_walk.jpg)
 
 *Náš průvodce Ari a zbytek naší skupinky před 
 [kavárnou Hannesarholt](https://visitreykjavik.is/service/hannesarholt).*
@@ -268,13 +268,13 @@ V něm se hora s malým "h" několikrát ukázala ve "sněžných" scénách za 
 
 &nbsp;
 
-![Hellnar](images/traveling_2024_Island_day_2_hellnar.jpeg)
+![Hellnar](images/2024_Island_day_2_hellnar.jpeg)
 
 *[Lávové pole Hellnar](https://www.west.is/en/place/hellnar).*
 
 &nbsp;
 
-![Kirkjufell](images/traveling_2024_Island_day_2_kirkjufell.jpeg)
+![Kirkjufell](images/2024_Island_day_2_kirkjufell.jpeg)
 
 *[Hora Kirkjufell](https://cs.wikipedia.org/wiki/Kirkjufell) a vodopád Kirkjufellfoss.*
 
@@ -313,7 +313,7 @@ do malebných fjordů.
 
 &nbsp;
 
-![Gardar BA 64](images/traveling_2024_Island_day_3_gardar_ba_64.jpeg)
+![Gardar BA 64](images/2024_Island_day_3_gardar_ba_64.jpeg)
 
 *Zastávka u [vraku lodi Gardar BA 64](https://www.atlasobscura.com/places/gardar-ba-64) na cestě
 po [západních fjordech](https://cs.wikipedia.org/wiki/Vestfir%C3%B0ir).*
@@ -335,7 +335,7 @@ a pozorovat, jak se vysoké vlny rozbíjejí o černé strmé skály. Byla to v�
 
 &nbsp;
 
-![Látrabjarg](images/traveling_2024_Island_day_3_latrabjagr.jpeg)
+![Látrabjarg](images/2024_Island_day_3_latrabjagr.jpeg)
 
 *[Útesy Látrabjarg](https://en.wikipedia.org/wiki/L%C3%A1trabjarg).*
 
@@ -377,7 +377,7 @@ po travnaté pláni, která postupně přecházela v rudý písek.
 
 &nbsp;
 
-![Raudisandur](images/traveling_2024_Island_day_4_raudisandur.jpeg)
+![Raudisandur](images/2024_Island_day_4_raudisandur.jpeg)
 
 *Pohled na černé skály ohraničující pláž [Raudisandur](https://guidetoiceland.is/travel-iceland/drive/raudasandur).*
 
@@ -403,7 +403,7 @@ pokochali se nádherným výhledem do okolí a poté spěchali zpět k autu, aby
 
 &nbsp;
 
-![Dynjandi](images/traveling_2024_Island_day_4_dynjandi.jpeg)
+![Dynjandi](images/2024_Island_day_4_dynjandi.jpeg)
 
 *Jedna z menších kaskád [vodopádu Dynjandi](https://cs.wikipedia.org/wiki/Dynjandi).*
 
@@ -450,7 +450,7 @@ dvě pleťové masky. Zda mi to nějak pomohlo zlepšit pleť, nevím. Asi ne.
 
 &nbsp;
 
-![Blue Lagoon](images/traveling_2024_Island_day_5_blue_lagoon.jpeg)
+![Blue Lagoon](images/2024_Island_day_5_blue_lagoon.jpeg)
 
 *Návštěvu [Blue Lagoon](https://cs.wikipedia.org/wiki/Modr%C3%A1_laguna_(geoterm%C3%A1ln%C3%AD_l%C3%A1zn%C4%9B))
 nakonec hodnotím velice kladně. Myslím, že jako relaxační zastávka po náročné dovolené jsou lázně

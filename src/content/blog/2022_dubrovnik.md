@@ -10,7 +10,7 @@ tags:
   - evropa
 ---
 
-![Vlajka Chorvatska](images/traveling_2022_Dubrovnik_image.jpg)
+![Vlajka Chorvatska](images/2022_Dubrovnik_image.jpg)
 
 &nbsp;
 
@@ -181,7 +181,7 @@ jednalo o jeden z highlightů hřeb naší dovolené.
 
 &nbsp;
 
-![Stradum z hradeb](images/traveling_2022_Dubrovnik_image_day_1_stradun.jpg)
+![Stradum z hradeb](images/2022_Dubrovnik_image_day_1_stradun.jpg)
 
 *Pohled z hradeb na [Stradun](https://en.wikipedia.org/wiki/Stradun_(street)),
 hlavní ulici ve starém města. V popředí se nachází františkánský klášter, na
@@ -204,7 +204,7 @@ na oběd znovu!
 
 &nbsp;
 
-![Oběd v Nishta](images/traveling_2022_Dubrovnik_image_day_1_nishta.jpg)
+![Oběd v Nishta](images/2022_Dubrovnik_image_day_1_nishta.jpg)
 
 *Hladový Jarda, který se chystá sníst zelnou polévku servírovanou v květináči.*
 
@@ -245,7 +245,7 @@ areál a nějakou dobu se kochali nádherným výhledem na staré město i nedal
 
 &nbsp;
 
-![Lanovka na horu Srd](images/traveling_2022_Dubrovnik_image_day_1_srd.jpg)
+![Lanovka na horu Srd](images/2022_Dubrovnik_image_day_1_srd.jpg)
 
 *Lanovka jedoucí na horu Srd.*
 
@@ -299,7 +299,7 @@ které jde královna [Daenerys Targaryen](https://cs.wikipedia.org/wiki/Daenerys
 
 &nbsp;
 
-![Rektorský palác](images/traveling_2022_Dubrovnik_image_day_2_rektorsky_palac.jpg)
+![Rektorský palác](images/2022_Dubrovnik_image_day_2_rektorsky_palac.jpg)
 
 *Nádvoří rektorského paláce.*
 
@@ -345,7 +345,7 @@ na [Dubrovník](https://cs.wikipedia.org/wiki/Dubrovn%C3%ADk).
 
 &nbsp;
 
-![Rektorský palác](images/traveling_2022_Dubrovnik_image_day_2_lokrum.jpg)
+![Rektorský palác](images/2022_Dubrovnik_image_day_2_lokrum.jpg)
 
 *Výhled na moře ze skalnatých útesů na ostrově [Lokrum](https://cs.wikipedia.org/wiki/Lokrum).*
 

@@ -10,7 +10,7 @@ tags:
   - evropa
 ---
 
-![Alpe di Siusi](images/traveling_2022_Dolomites_image.jpg)
+![Alpe di Siusi](images/2022_Dolomites_image.jpg)
 
 &nbsp;
 
@@ -123,7 +123,7 @@ cpát s ostatními lidmi v metru na cestě na hotel.
 
 &nbsp;
 
-![My Chemical Romance show](images/traveling_2022_Dolomites_day_0.jpg)
+![My Chemical Romance show](images/2022_Dolomites_day_0.jpg)
 
 *Čekání na vystoupení Ministerstva České republiky v O2 Areně v Praze.*
 
@@ -176,7 +176,7 @@ by si člověk musel půjčovat šlapadlo.
 
 &nbsp;
 
-![Hallstatt](images/traveling_2022_Dolomites_day_1_Hallstatt.jpg)
+![Hallstatt](images/2022_Dolomites_day_1_Hallstatt.jpg)
 
 *Ikonický pohled na [Hallstatt](https://cs.wikipedia.org/wiki/Hallstatt).*
 
@@ -230,7 +230,7 @@ stylu. Myslím, že jemu by se náš penzion opravdu moc líbil.
 
 &nbsp;
 
-![Unteradamerhof, Sesto](images/traveling_2022_Dolomites_day_2_penzion.jpg)
+![Unteradamerhof, Sesto](images/2022_Dolomites_day_2_penzion.jpg)
 
 *Penzion Unteradamerhof ve vesnici [Sesto](https://cs.wikipedia.org/wiki/Sexten).*
 
@@ -244,7 +244,7 @@ jen kousek od našeho penzionu, kde jsme byli ten den poprvé na večeři.
 
 &nbsp;
 
-![Unteradamerhof, Sesto](images/traveling_2022_Dolomites_day_2_polana.jpg)
+![Unteradamerhof, Sesto](images/2022_Dolomites_day_2_polana.jpg)
 
 *Pohled na okolní hory z polany ve vesničce [Sesto](https://cs.wikipedia.org/wiki/Sexten).*
 
@@ -335,7 +335,7 @@ Tam jsme si dali kávu a zákusek a kolem 17. hodiny vyrazili k jezerům
 
 &nbsp;
 
-![Tre Cime](images/traveling_2022_Dolomites_day_3_tre_cime.jpg)
+![Tre Cime](images/2022_Dolomites_day_3_tre_cime.jpg)
 
 *Pohled na skály [Tre Cime](https://cs.wikipedia.org/wiki/Tre_Cime) od severovýchodu.*
 
@@ -352,7 +352,7 @@ hotelů a restauračních zařízení, které dojem lehce kazí.
 
 &nbsp;
 
-![Lago di Misurina](images/traveling_2022_Dolomites_day_3_misurina.jpg)
+![Lago di Misurina](images/2022_Dolomites_day_3_misurina.jpg)
 
 *[Lago di Misurina](https://cs.wikipedia.org/wiki/Lago_di_Misurina).*
 
@@ -399,7 +399,7 @@ jsem ale viděl, co všechno krávy do vody vyměšují, už mě to tolik nelák
 
 &nbsp;
 
-![Lago di Braies](images/traveling_2022_Dolomites_day_4_lago_di_braies.jpg)
+![Lago di Braies](images/2022_Dolomites_day_4_lago_di_braies.jpg)
 
 *[Lago di Braies](https://cs.wikipedia.org/wiki/Lago_di_Braies).*
 
@@ -421,7 +421,7 @@ jsme si dali kávu a zákusek v podobě vynikajícího jablečného štrůdlu se
 
 &nbsp;
 
-![Val di Funes](images/traveling_2022_Dolomites_day_4_val_di_funes.jpg)
+![Val di Funes](images/2022_Dolomites_day_4_val_di_funes.jpg)
 
 *[Val di Funes](https://italie.svetadily.cz/clanky/Val-di-Funes-horska-krajina-jako-z-pohadky).*
 
@@ -441,7 +441,7 @@ jinak než ostatní jezera obklopená hromadou lidí, krávami, nebo komerčním
 
 &nbsp;
 
-![Lago di Carezza](images/traveling_2022_Dolomites_day_4_lago_di_carezza.jpg)
+![Lago di Carezza](images/2022_Dolomites_day_4_lago_di_carezza.jpg)
 
 *[Lago di Carezza](https://en.wikipedia.org/wiki/Karersee).*
 
@@ -481,7 +481,7 @@ vidět na vlastní oči. Bylo to pro mě neuvěřitelné!
 
 &nbsp;
 
-![Alpe di Siusi](images/traveling_2022_Dolomites_image.jpg)
+![Alpe di Siusi](images/2022_Dolomites_image.jpg)
 
 *Pohled na polanu [Alpe di Siusi](https://en.wikipedia.org/wiki/Seiser_Alm) a masiv Langkofel.*
 
@@ -500,7 +500,7 @@ na malebné okolí.
 
 &nbsp;
 
-![Alpe di Siusi](images/traveling_2022_Dolomites_day_5_alpe_di_siusi.jpg)
+![Alpe di Siusi](images/2022_Dolomites_day_5_alpe_di_siusi.jpg)
 
 *Pohled na polanu [Alpe di Siusi](https://en.wikipedia.org/wiki/Seiser_Alm) zahalené do mraků.*
 
@@ -548,7 +548,7 @@ túr na této dovolené.
 
 &nbsp;
 
-![Cesta k Lago di Sorapis](images/traveling_2022_Dolomites_day_6_hike.jpg)
+![Cesta k Lago di Sorapis](images/2022_Dolomites_day_6_hike.jpg)
 
 *Kamenitá cesta ve skalách vedoucí k [Lago di Sorapis](https://cs.wikipedia.org/wiki/Lago_di_Sorapiss).*
 
@@ -562,7 +562,7 @@ na cestu zpět.
 
 &nbsp;
 
-![Lago di Sorapis](images/traveling_2022_Dolomites_day_6_lago_di_sorapis.jpg)
+![Lago di Sorapis](images/2022_Dolomites_day_6_lago_di_sorapis.jpg)
 
 *[Lago di Sorapis](https://cs.wikipedia.org/wiki/Lago_di_Sorapiss) a kámen, na kterém se chtěl každý otrapa vyfotit.*
 

@@ -11,7 +11,7 @@ tags:
 ---
 
 
-![Karlsplatz](images/travelling_2021_Viden_image.jpg)
+![Karlsplatz](images/2021_Viden_image.jpg)
 
 &nbsp;
 

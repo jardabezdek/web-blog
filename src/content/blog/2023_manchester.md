@@ -11,7 +11,7 @@ tags:
   - evropa
 ---
 
-![Marcus Rashford on the ball](images/traveling_2023_Manchester_image.jpg)
+![Marcus Rashford on the ball](images/2023_Manchester_image.jpg)
 
 &nbsp;
 
@@ -141,7 +141,7 @@ a dva hotely.
 
 &nbsp;
 
-![Royal Albert Dock](images/traveling_2023_Manchester_day_1_Royal_Albert_Dock.jpeg)
+![Royal Albert Dock](images/2023_Manchester_day_1_Royal_Albert_Dock.jpeg)
 
 *Komplex přístavních budov [Royal Albert Dock](https://en.wikipedia.org/wiki/Royal_Albert_Dock,_Liverpool).*
 
@@ -158,7 +158,7 @@ není úplně dobré. Ostatně posuďte sami, jak na vás působí na následuj�
 
 &nbsp;
 
-![The Beatles](images/traveling_2023_Manchester_day_1_Beatles.jpeg)
+![The Beatles](images/2023_Manchester_day_1_Beatles.jpeg)
 
 *Buskeři přitahující pozornost turistů na liverpoolském nábřeží.*
 
@@ -179,7 +179,7 @@ liverpoolské skupiny ale bystré oko najde na zdi i jména jako
 
 &nbsp;
 
-![The Cavern Club](images/traveling_2023_Manchester_day_1_Cavern_Club.jpeg)
+![The Cavern Club](images/2023_Manchester_day_1_Cavern_Club.jpeg)
 
 *Zeď klubu [Cavern Club](https://cs.wikipedia.org/wiki/Cavern_Club), o kterou se
 opírá bronzová socha Johna Lennona.*
@@ -280,7 +280,7 @@ na hřišti! Na sestřih utkání s domácím komentářem se můžete podívat
 
 &nbsp;
 
-![Goodison Park](images/traveling_2023_Manchester_day_1_Goodison_Park.jpeg)
+![Goodison Park](images/2023_Manchester_day_1_Goodison_Park.jpeg)
 
 *Výhled z našich exkluzivních míst ve druhé půli zápasu mezi
 [Evertonem](https://cs.wikipedia.org/wiki/Everton_FC) a
@@ -314,7 +314,7 @@ klubu, aby poukázali na odvrácenou tvář slavného
 
 &nbsp;
 
-![Anfield](images/traveling_2023_Manchester_day_1_Anfield.jpg)
+![Anfield](images/2023_Manchester_day_1_Anfield.jpg)
 
 *Kritika slavného klubu za jedním z oken poblíž
 [stadionu Anfield](https://cs.wikipedia.org/wiki/Anfield).
@@ -397,7 +397,7 @@ tím pádem líbit i ten v [Manchesteru](https://cs.wikipedia.org/wiki/Mancheste
 
 &nbsp;
 
-![Castlefield](images/traveling_2023_Manchester_day_2_Castlefield.jpeg)
+![Castlefield](images/2023_Manchester_day_2_Castlefield.jpeg)
 
 *Kanál Bridgewater v městské památkové rezervaci
 [Castlefield](https://en.wikipedia.org/wiki/Castlefield).*
@@ -418,7 +418,7 @@ nachází hned za ní.
 
 &nbsp;
 
-![Manchester Cathedral](images/traveling_2023_Manchester_day_2_Cathedral.jpeg)
+![Manchester Cathedral](images/2023_Manchester_day_2_Cathedral.jpeg)
 
 *[Manchesterská katedrála](https://en.wikipedia.org/wiki/Manchester_Cathedral).*
 
@@ -442,7 +442,7 @@ objednávku a s úsměvem na tváři se s námi loučila, jsem pochopil, že to 
 
 &nbsp;
 
-![PizzaHut](images/traveling_2023_Manchester_day_2_PizzaHut.jpg)
+![PizzaHut](images/2023_Manchester_day_2_PizzaHut.jpg)
 
 *Společně si "pochutnáváme" na mastných mini pizzách v nákupním středisku.*
 
@@ -554,7 +554,7 @@ Na sestřih zápasu se můžete podívat [zde](https://www.youtube.com/watch?v=R
 
 &nbsp;
 
-![Old Trafford](images/traveling_2023_Manchester_day_2_Old_Trafford.jpeg)
+![Old Trafford](images/2023_Manchester_day_2_Old_Trafford.jpeg)
 
 *Divadlo snů.*
 
@@ -577,7 +577,7 @@ ze salátového baru.
 
 &nbsp;
 
-![MediaCity](images/traveling_2023_Manchester_day_2_MediaCity.jpeg)
+![MediaCity](images/2023_Manchester_day_2_MediaCity.jpeg)
 
 *Červánky nad válečným muzeem
 [IWM North](https://en.wikipedia.org/wiki/Imperial_War_Museum_North) a pěší lávkou
@@ -626,7 +626,7 @@ Asi nemusím doplňovat, kdo návštěvu tohoto nezapomenutelného místa inicio
 
 &nbsp;
 
-![Picadilly Gardens](images/traveling_2023_Manchester_day_2_Tanao_Ando.jpg)
+![Picadilly Gardens](images/2023_Manchester_day_2_Tanao_Ando.jpg)
 
 *Obdivuhodné dílo mistra betonu.*
 

@@ -9,7 +9,7 @@ tags:
   - dovolená
 ---
 
-![Palmse Manor](images/traveling_2024_Estonsko_image.jpeg)
+![Palmse Manor](images/2024_Estonsko_image.jpeg)
 
 &nbsp;
 
@@ -133,7 +133,7 @@ past na turisty. Jak ale říká náš průvodce - bez návštěvy
 
 &nbsp;
 
-![Olde Hansa](images/traveling_2024_Estonsko_day_2_olde_hansa.jpeg)
+![Olde Hansa](images/2024_Estonsko_day_2_olde_hansa.jpeg)
 
 *V [restauraci Olde Hansa](https://visitestonia.com/en/olde-hansa) měl člověk pocit, že se vrátil
 v čase o několik století zpět.*
@@ -171,7 +171,7 @@ chodníčcích a člověk musel dávat pozor, kam šlape, nejednalo se o nijak n
 
 &nbsp;
 
-![Viru](images/traveling_2024_Estonsko_day_3_viru.jpeg)
+![Viru](images/2024_Estonsko_day_3_viru.jpeg)
 
 *Rašeliniště Viru v [NP Lahemaa](https://visitestonia.com/en/lahemaa-national-park-and-information-point).*
 
@@ -209,7 +209,7 @@ po zámeckých zahradách, podívali se do budov, které náležely do areálu z
 
 &nbsp;
 
-![Sagadi manor](images/traveling_2024_Estonsko_day_3_sagadi_manor.jpeg)
+![Sagadi manor](images/2024_Estonsko_day_3_sagadi_manor.jpeg)
 
 *Čelní pohled na zámeček [Sagadi manor](https://visitestonia.com/en/sagadi-manor).*
 
@@ -274,7 +274,7 @@ hollywoodského filmu. Tím prvním a zatím posledním byl
 
 &nbsp;
 
-![Linahall](images/traveling_2024_Estonsko_day_4_linahall.jpeg)
+![Linahall](images/2024_Estonsko_day_4_linahall.jpeg)
 
 *[Linnahall](https://en.wikipedia.org/wiki/Linnahall).*
 
@@ -311,7 +311,7 @@ s vodou! 😁
 
 &nbsp;
 
-![Bridgettine convent](images/traveling_2024_Estonsko_day_4_convent.jpeg)
+![Bridgettine convent](images/2024_Estonsko_day_4_convent.jpeg)
 
 *[Klášter sv. Brigity](https://visitestonia.com/en/ruins-of-bridgettine-convent)
 mi hodně připomíná
@@ -362,7 +362,7 @@ ve středověku jsem vidět nemusel.
 
 &nbsp;
 
-![Niguliste](images/traveling_2024_Estonsko_day_5_niguliste.jpeg)
+![Niguliste](images/2024_Estonsko_day_5_niguliste.jpeg)
 
 *Pohled z věže [kostela sv. Mikuláše](https://cs.wikipedia.org/wiki/Kostel_svat%C3%A9ho_Mikul%C3%A1%C5%A1e_(Tallinn)) na
 [chrám svatého Alexandra Něvského](https://cs.wikipedia.org/wiki/Chr%C3%A1m_svat%C3%A9ho_Alexandra_N%C4%9Bvsk%C3%A9ho_(Tallinn)).*
@@ -445,7 +445,7 @@ neváhal bych ani vteřinu!
 
 &nbsp;
 
-![Banksy](images/traveling_2024_Estonsko_day_5_banksy.jpeg)
+![Banksy](images/2024_Estonsko_day_5_banksy.jpeg)
 
 *Replika [Banksyho díla "No Ball Games"](https://banksyexplained.com/no-ball-games-2009-2/).*
 
@@ -490,7 +490,7 @@ se slavnou fontánou líbalících se studentů a nápisem #Tartu2024, který up
 
 &nbsp;
 
-![Tartu](images/traveling_2024_Estonsko_day_6_tartu.jpeg)
+![Tartu](images/2024_Estonsko_day_6_tartu.jpeg)
 
 *Ikonická [fontána líbalících se studentů](https://visitestonia.com/en/the-kissing-students-sculpture-and-fountain)
 před [radnicí v Tartu](https://visitestonia.com/en/town-hall-square-in-tartu).*
@@ -535,7 +535,7 @@ tím ale tak zamýšlím, byl to nakonec docela vtipný zážitek a já jsem rá
 
 &nbsp;
 
-![Univerzita Tartu](images/traveling_2024_Estonsko_day_6_tartu_uni.jpeg)
+![Univerzita Tartu](images/2024_Estonsko_day_6_tartu_uni.jpeg)
 
 *Budova [Univerzity v Tartu](https://cs.wikipedia.org/wiki/Tartusk%C3%A1_univerzita) se slavným
 [Muzeem umění](https://visitestonia.com/en/university-of-tartu-art-museum).*
@@ -587,7 +587,7 @@ k autu a vydali se na cestu do hlavního města.
 
 &nbsp;
 
-![Haapsalu](images/traveling_2024_Estonsko_day_7_haapsalu.jpeg)
+![Haapsalu](images/2024_Estonsko_day_7_haapsalu.jpeg)
 
 *Promenáda v lázeňském [městě Haapsalu](https://cs.wikipedia.org/wiki/Haapsalu) se líbila i ruskému
 skladateli [Petru I. Čajkovskému](https://cs.wikipedia.org/wiki/Petr_Ilji%C4%8D_%C4%8Cajkovskij),

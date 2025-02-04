@@ -11,7 +11,7 @@ tags:
 ---
 
 
-![Santiago Bernabeu](images/traveling_2022_Madrid_image.JPG)
+![Santiago Bernabeu](images/2022_Madrid_image.JPG)
 
 &nbsp;
 

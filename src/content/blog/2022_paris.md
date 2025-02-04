@@ -10,7 +10,7 @@ tags:
   - evropa
 ---
 
-![Sacre Coeur](images/traveling_2022_Pariz_image.jpeg)
+![Sacre Coeur](images/2022_Pariz_image.jpeg)
 
 &nbsp;
 
@@ -80,7 +80,7 @@ malinko kýčovitou) světelnou show.
 
 &nbsp;
 
-![Osvětlená Eiffelova věž](images/traveling_2022_Pariz_image_day_0_eiffel.jpg)
+![Osvětlená Eiffelova věž](images/2022_Pariz_image_day_0_eiffel.jpg)
 
 *Osvětlená [Eiffelova věž](https://cs.wikipedia.org/wiki/Eiffelova_v%C4%9B%C5%BE).*
 
@@ -141,7 +141,7 @@ a brouzdáním po jednom z nejslavnějších bulvárů světa,
 
 &nbsp;
 
-![Vítězný oblouk](images/traveling_2022_Pariz_image_day_1_arc.jpeg)
+![Vítězný oblouk](images/2022_Pariz_image_day_1_arc.jpeg)
 
 *[Vítězný oblouk](https://cs.wikipedia.org/wiki/V%C3%ADt%C4%9Bzn%C3%BD_oblouk_(Pa%C5%99%C3%AD%C5%BE)),
 který nechal [Napoleon](https://cs.wikipedia.org/wiki/Napoleon_Bonaparte) postavit,
@@ -208,7 +208,7 @@ tím, co je někdo schopný vytvořit.
 
 &nbsp;
 
-![Palác Conciergerie](images/traveling_2022_Pariz_image_day_1_conciergerie.jpeg)
+![Palác Conciergerie](images/2022_Pariz_image_day_1_conciergerie.jpeg)
 
 *Písečná socha ve tvaru matrace v paláci
 [Conciergerie](https://cs.wikipedia.org/wiki/Conciergerie).*
@@ -322,7 +322,7 @@ jsme do našeho oblíbeného podniku [Bagelstein](https://www.bagelstein.com/).
 
 &nbsp;
 
-![Eiffelova věž](images/traveling_2022_Pariz_image_day_2_eiffel.jpeg)
+![Eiffelova věž](images/2022_Pariz_image_day_2_eiffel.jpeg)
 
 *Instagramové vyobrazení poctivé ocelařiny.*
 
@@ -442,7 +442,7 @@ Nejenže všichni tři nastoupili od první minuty, ale navíc každý z nich da
 
 &nbsp;
 
-![Eiffelova věž](images/traveling_2022_Pariz_image_day_3_park_princu.jpeg)
+![Eiffelova věž](images/2022_Pariz_image_day_3_park_princu.jpeg)
 
 *Pohled na [Park princů](https://cs.wikipedia.org/wiki/Parc_des_Princes) při utkání
 mezi [PSG](https://cs.wikipedia.org/wiki/Paris_Saint-Germain_FC) a

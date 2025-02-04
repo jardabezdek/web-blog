@@ -10,7 +10,7 @@ tags:
   - evropa
 ---
 
-![The Tower Bridge](images/traveling_2020_London_image.jpg)
+![The Tower Bridge](images/2020_London_image.jpg)
 
 &nbsp;
 

@@ -11,7 +11,7 @@ tags:
 ---
 
 
-![Nou Camp](images/traveling_2019_Barcelona_image.jpg)
+![Nou Camp](images/2019_Barcelona_image.jpg)
 
 &nbsp;
 

@@ -9,7 +9,7 @@ tags:
   - evropa
 ---
 
-![Krakov](images/traveling_2019_Krakov_image.jpg)
+![Krakov](images/2019_Krakov_image.jpg)
 
 &nbsp;
 

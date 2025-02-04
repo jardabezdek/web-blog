@@ -10,7 +10,7 @@ tags:
   - evropa
 ---
 
-![Big Ben](images/traveling_2023_Londyn_image.jpg)
+![Big Ben](images/2023_Londyn_image.jpg)
 
 &nbsp;
 
@@ -60,7 +60,7 @@ nezáživném výkonu obou celků skončil zápas pravděpodobně spravedlivou r
 
 &nbsp;
 
-![Loftus Road Stadium](images/traveling_2023_Londyn_day_0_Loftus_Road_Stadium.jpg)
+![Loftus Road Stadium](images/2023_Londyn_day_0_Loftus_Road_Stadium.jpg)
 
 *Zápas mezi [QPR](https://cs.wikipedia.org/wiki/Queens_Park_Rangers_FC) a
 [Bristolem City](https://cs.wikipedia.org/wiki/Bristol_City_FC) na
@@ -136,7 +136,7 @@ byl tak stav nerozhodný 1:1.
 
 &nbsp;
 
-![London Stadium](images/traveling_2023_Londyn_day_1_London_Stadium.jpg)
+![London Stadium](images/2023_Londyn_day_1_London_Stadium.jpg)
 
 *Zápas mezi [West Hamem United](https://cs.wikipedia.org/wiki/West_Ham_United_FC) a
 [Nottinghamem Forrest](https://cs.wikipedia.org/wiki/Nottingham_Forest_FC) na
@@ -192,7 +192,7 @@ titulem ["zápas roku"](https://www.fotbalportal.cz/anglie/premier-league/66824-
 
 &nbsp;
 
-![Stamford Bridge](images/traveling_2023_Londyn_day_1_Stamford_Bridge.jpg)
+![Stamford Bridge](images/2023_Londyn_day_1_Stamford_Bridge.jpg)
 
 *Zápas roku mezi [Chelsea](https://cs.wikipedia.org/wiki/Chelsea_FC) a
 [Manchesterem City](https://cs.wikipedia.org/wiki/Manchester_City_FC) na
@@ -223,7 +223,7 @@ ukázkovou realizaci. Shodli jsme se na tom, že za pár let se tam pojedeme pod
 
 &nbsp;
 
-![Princess Diana Memorial Fountain](images/traveling_2023_Londyn_day_2_Diana_Memorial_Fountain.jpg)
+![Princess Diana Memorial Fountain](images/2023_Londyn_day_2_Diana_Memorial_Fountain.jpg)
 
 *Kachny u [památníku Princezny Diany](https://cs.wikipedia.org/wiki/Pam%C3%A1tn%C3%ADk_Diany,_princezny_z_Walesu).*
 
@@ -237,7 +237,7 @@ bytovými domy.
 
 &nbsp;
 
-![Battersea Power Station](images/traveling_2023_Londyn_day_2_Battersea_Power_Station.jpg)
+![Battersea Power Station](images/2023_Londyn_day_2_Battersea_Power_Station.jpg)
 
 *[Battersea Power Station](https://cs.wikipedia.org/wiki/Elektr%C3%A1rna_Battersea).*
 

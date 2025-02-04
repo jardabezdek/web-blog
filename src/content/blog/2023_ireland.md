@@ -9,7 +9,7 @@ tags:
   - evropa
 ---
 
-![Picture](images/traveling_2023_Irsko_image.jpg)
+![Picture](images/2023_Irsko_image.jpg)
 
 &nbsp;
 
@@ -116,7 +116,7 @@ ty stejné draky, které jsem tam ráno nechal.
 
 &nbsp;
 
-![Waterford](images/traveling_2023_Irsko_day_1_Waterford.jpg)
+![Waterford](images/2023_Irsko_day_1_Waterford.jpg)
 
 *Socha před [muzeem Waterford Treasures: Bishop's Palace](https://www.waterfordtreasures.com/).*
 
@@ -174,7 +174,7 @@ pravděpodobně o největší highlight našeho pobytu.
 
 &nbsp;
 
-![Rock of Cashel](images/traveling_2023_Irsko_day_4_Rock_of_Cashel.jpg)
+![Rock of Cashel](images/2023_Irsko_day_4_Rock_of_Cashel.jpg)
 
 *[Rock of Cashel](https://heritageireland.ie/places-to-visit/rock-of-cashel/).*
 
@@ -189,7 +189,7 @@ i dva manželské páry, které si v době naší návštavy vybraly objekt pro 
 
 &nbsp;
 
-![Kilkenny castle](images/traveling_2023_Irsko_day_4_Kilkenny_castle.jpg)
+![Kilkenny castle](images/2023_Irsko_day_4_Kilkenny_castle.jpg)
 
 *[Hrad v Kilkenny](https://en.wikipedia.org/wiki/Kilkenny_Castle).*
 
@@ -228,7 +228,7 @@ nebylo ještě ani poledne a já jsem už cítil, že nejsem úplně fresh.
 
 &nbsp;
 
-![Degustation](images/traveling_2023_Irsko_day_5_Guinness_degustation.jpg)
+![Degustation](images/2023_Irsko_day_5_Guinness_degustation.jpg)
 
 *Při degustaci piva [Guinness](https://cs.wikipedia.org/wiki/Guinness) jsme se dozvěděli, že pivo
 nemá černou, ale červenou barvu!*

@@ -9,7 +9,7 @@ tags:
   - evropa
 ---
 
-![Picture](images/traveling_2023_Island_image.jpg)
+![Picture](images/2023_Island_image.jpg)
 
 &nbsp;
 
@@ -89,7 +89,7 @@ motor a v některých islandských kopcích se hodně zadýchávalo, v průběhu
 
 &nbsp;
 
-![Hyundai i10](images/traveling_2023_Island_day_1_auto.jpg)
+![Hyundai i10](images/2023_Island_day_1_auto.jpg)
 
 *Plně naložený vůz Hyundai i10.*
 
@@ -117,7 +117,7 @@ přes průsmyk Fimmvörduháls, který vede do známé oblasti
 
 &nbsp;
 
-![Skógafoss](images/traveling_2023_Island_day_1_Skogafoss.jpg)
+![Skógafoss](images/2023_Island_day_1_Skogafoss.jpg)
 
 *Majestátní vodopád [Skógafoss](https://www.cestujlevne.com/pruvodce/island/skogafoss).*
 
@@ -131,7 +131,7 @@ náladu a byl jsem moc vděčný za to, co jsme hned první den zažili.
 
 &nbsp;
 
-![Skógafoss](images/traveling_2023_Island_day_1_poncho.jpg)
+![Skógafoss](images/2023_Island_day_1_poncho.jpg)
 
 *Já a můj nový nejoblíbenější kus oblečení!.*
 
@@ -167,7 +167,7 @@ a zároveň nemám děti, které by si chtěly hrát v písku. A že jich tam by
 
 &nbsp;
 
-![Reynisfjara](images/traveling_2023_Island_day_2_Reynisfjara.jpg)
+![Reynisfjara](images/2023_Island_day_2_Reynisfjara.jpg)
 
 *V době pořízení fotografie bylo kolem 10 °C, pršelo a foukal vítr. Jak je vidět na fotce, pojem
 "dovolená u moře" dostává na [Islandu](https://cs.wikipedia.org/wiki/Island) úplně nový rozměr.*
@@ -193,7 +193,7 @@ se rozhodli vzít si poncha a sednout si na lavičku v nich. Když jsem si ale s
 
 &nbsp;
 
-![Sólheimajökull](images/traveling_2023_Island_day_2_Solheimajokull.jpg)
+![Sólheimajökull](images/2023_Island_day_2_Solheimajokull.jpg)
 
 *Malebný ledovec Sólheimajökull.*
 
@@ -210,7 +210,7 @@ znovu, tento trek bych na 100 % vynechal.
 
 &nbsp;
 
-![Vrak letadla](images/traveling_2023_Island_day_2_letadlo.jpg)
+![Vrak letadla](images/2023_Island_day_2_letadlo.jpg)
 
 *[Vrak amerického armádního letadla Dakota DC-3](https://www.cestujlevne.com/pruvodce/island/vrak-letadla-dc-3),
 které leží v osiřelé krajině širokého lávového pole od havárie v roce 1973.*
@@ -228,7 +228,7 @@ kopci za ní vytváří opravdu nádhernou scenérii.
 
 &nbsp;
 
-![Endless black beach](images/traveling_2023_Island_day_2_endless_black_beach.jpg)
+![Endless black beach](images/2023_Island_day_2_endless_black_beach.jpg)
 
 *Jméno "Endless black beach" hovoří za vše.*
 
@@ -244,7 +244,7 @@ nejen na celé městečko, ale i na okolní zelené kopce.
 
 &nbsp;
 
-![Vik](images/traveling_2023_Island_day_2_Vik.jpg)
+![Vik](images/2023_Island_day_2_Vik.jpg)
 
 *Pohled na [kostelík v městečku Vík](https://en.wikipedia.org/wiki/Vik_Church). V pozadí čedičové
 sloupy na pláži [Reynisfjara](https://www.cestujlevne.com/pruvodce/island/reynisfjara).*
@@ -269,7 +269,7 @@ k danému místu, jedná se o skvělou zastávku na cestě po východním
 
 &nbsp;
 
-![Fjádrárgljúfur](images/traveling_2023_Island_day_3_Fjadra.jpg)
+![Fjádrárgljúfur](images/2023_Island_day_3_Fjadra.jpg)
 
 *Pohled do [kaňonu Fjádrárgljúfur](https://www.cestujlevne.com/pruvodce/island/fjadrargljufur).*
 
@@ -306,7 +306,7 @@ připomínají píšťaly kostelních varhan.
 
 &nbsp;
 
-![Vodopád Svartifoss](images/traveling_2023_Island_day_3_Svartifoss.jpg)
+![Vodopád Svartifoss](images/2023_Island_day_3_Svartifoss.jpg)
 
 *Vodopád [Svartifoss](https://en.wikipedia.org/wiki/Svartifoss), kterému se díky čedičové stěně
 přezdívá "černý vodopád".*
@@ -335,7 +335,7 @@ na [Islandu](https://cs.wikipedia.org/wiki/Island). Díky, Nasty!
 
 &nbsp;
 
-![Ledovcový splaz Svínafellsjökull](images/traveling_2023_Island_day_3_Svinafellsjokull.jpg)
+![Ledovcový splaz Svínafellsjökull](images/2023_Island_day_3_Svinafellsjokull.jpg)
 
 *Ledovcový splaz [Svínafellsjökull](https://guidetoiceland.is/travel-iceland/drive/svinafellsjokull).*
 
@@ -362,7 +362,7 @@ fotky této pláže jsou pořízeny v zimě.
 
 &nbsp;
 
-![Diamond beach](images/traveling_2023_Island_day_4_Diamond_beach.jpg)
+![Diamond beach](images/2023_Island_day_4_Diamond_beach.jpg)
 
 *[Diamantová pláž](https://www.cestujlevne.com/pruvodce/island/jokulsarlon), která by podle mě mohla
 být více diamantová.*
@@ -408,7 +408,7 @@ na [Islandu](https://cs.wikipedia.org/wiki/Island). A podle mě naprosto právem
 
 &nbsp;
 
-![Minipohoří Vestrahorn](images/traveling_2023_Island_day_4_Vestrahorn.jpg)
+![Minipohoří Vestrahorn](images/2023_Island_day_4_Vestrahorn.jpg)
 
 *Kombinace černého písku, zelené trávy a jasně ohraničeného
 [minipohoří Vestrahorn](https://www.cestujlevne.com/pruvodce/island/vestrahorn) vytváří scénu jako
@@ -478,7 +478,7 @@ každých 10 minut. My jsme ho zastihli 3x a byl to skutečně zážitek!
 
 &nbsp;
 
-![Haukadalur](images/traveling_2023_Island_day_5_Haukaladur.jpg)
+![Haukadalur](images/2023_Island_day_5_Haukaladur.jpg)
 
 *Geotermálním údolí [Haukadalur](https://en.wikipedia.org/wiki/Haukadalur). Vlevo vzadu
 [Geysir](https://cs.wikipedia.org/wiki/Geysir). Vpravo vzadu čekají návštěvníci na to,
@@ -495,7 +495,7 @@ osobně zase tolik nenadchl. Vodopády z prvního dne se mi rozhodně líbily mn
 
 &nbsp;
 
-![Gullfoss](images/traveling_2023_Island_day_5_Gullfoss.jpg)
+![Gullfoss](images/2023_Island_day_5_Gullfoss.jpg)
 
 *Vodopád [Gullfoss](https://cs.wikipedia.org/wiki/Zlat%C3%BD_vodop%C3%A1d), týž zvaný Zlatý vodopád.*
 
@@ -544,7 +544,7 @@ pravděpodobnostního rozdělení.
 
 &nbsp;
 
-![Vila Höfdi](images/traveling_2023_Island_day_6_Hofdi.jpg)
+![Vila Höfdi](images/2023_Island_day_6_Hofdi.jpg)
 
 *[Vila Höfdi](https://en.wikipedia.org/wiki/H%C3%B6f%C3%B0i).*
 
@@ -586,7 +586,7 @@ Holt moře nesvědčí každému!
 
 &nbsp;
 
-![Oceán](images/traveling_2023_Island_day_6_ocean.jpg)
+![Oceán](images/2023_Island_day_6_ocean.jpg)
 
 *Vyhlížení velryb.*
 

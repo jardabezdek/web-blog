@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![NP Namib](images/traveling_2024_Namibie_image.jpg)
+![NP Namib](images/2024_Namibie_image.jpg)
 
 &nbsp;
 
@@ -172,7 +172,7 @@ pozitivní energii dokázal přenést i na ostatní.
 
 &nbsp;
 
-![Talk at NUST](images/traveling_2024_Namibie_day_2_nust.jpg)
+![Talk at NUST](images/2024_Namibie_day_2_nust.jpg)
 
 *Bla bla bla.*
 
@@ -242,14 +242,14 @@ k výuce a pokusit se vyřešit některý z dalších programovacích úkolů.
 
 &nbsp;
 
-![Dog in Jacob Marengo](images/traveling_2024_Namibie_day_3_pes.jpg)
+![Dog in Jacob Marengo](images/2024_Namibie_day_3_pes.jpg)
 
 *Zahájení výuky proběhlo v přítomnosti tohoto neznámého chlupáče, který ve třídě řešil svůj
 vlastní business. Nikdo z přítomných na něj nereagoval.*
 
 &nbsp;
 
-![Students in Jacob Marengo](images/traveling_2024_Namibie_day_3_studenti.jpg)
+![Students in Jacob Marengo](images/2024_Namibie_day_3_studenti.jpg)
 
 *Udělalo mi velkou radost, když mi oba moji studenti po skončení hodiny řekli, že jsem dobrý učitel.*
 
@@ -289,7 +289,7 @@ prostě [Afrika](https://cs.wikipedia.org/wiki/Afrika)!
 
 &nbsp;
 
-![Katutura food market](images/traveling_2024_Namibie_day_3_katatura.jpg)
+![Katutura food market](images/2024_Namibie_day_3_katatura.jpg)
 
 *Katutura food market, kterému nikdo z místních neřekne jinak než "kapana".*
 
@@ -405,7 +405,7 @@ v Africe a na mnoha místech ani neexistuje telefoní signál, by to nebylo nic 
 
 &nbsp;
 
-![Ford](images/traveling_2024_Namibie_day_5_auto.jpg)
+![Ford](images/2024_Namibie_day_5_auto.jpg)
 
 *Ford Ranger, náš společník na cestách po [Namibii](https://cs.wikipedia.org/wiki/Namibie).*
 
@@ -437,7 +437,7 @@ připočítám, že se místní postarali o krátký výklad, byl to super záž
 
 &nbsp;
 
-![Christ Church, Windhoek](images/traveling_2024_Namibie_day_5_christchurch.jpg)
+![Christ Church, Windhoek](images/2024_Namibie_day_5_christchurch.jpg)
 
 *Výhled na [luteránský kostel Christ Church](https://en.wikipedia.org/wiki/Christ_Church,_Windhoek)
 ze střechy [muzea](https://en.wikipedia.org/wiki/Independence_Memorial_Museum_(Namibia)).*
@@ -508,7 +508,7 @@ pozdravili. Po chvilce se nám kousek od ní ukázalo i mládě. To byl skvělý
 
 &nbsp;
 
-![Giraffe](images/traveling_2024_Namibie_day_6_zirafa.jpg)
+![Giraffe](images/2024_Namibie_day_6_zirafa.jpg)
 
 *Kohopak to tady máme?*
 
@@ -552,7 +552,7 @@ přenecháme někomu jinému a pojedeme zase dál.
 
 &nbsp;
 
-![Cheetah](images/traveling_2024_Namibie_day_7_gepard.jpg)
+![Cheetah](images/2024_Namibie_day_7_gepard.jpg)
 
 *[NP Etosha](https://en.wikipedia.org/wiki/Etosha_National_Park) byl založen v roce 1907 a tehdy
 se mohl chlubit titulem největší přírodní rezervace světa. Rozkládal se totiž na ploše 100.000 km2.
@@ -634,7 +634,7 @@ okolní skály i skupinku zeber, které byly do parku přivezeny.
 
 &nbsp;
 
-![Zebras](images/traveling_2024_Namibie_day_8_john.jpg)
+![Zebras](images/2024_Namibie_day_8_john.jpg)
 
 *John ukazuje, jak před 2,000 lety vypadal Facebook.*
 
@@ -657,7 +657,7 @@ slunce, které postupně měnilo oranžové kameny do odstínů červené a tmav
 
 &nbsp;
 
-![Spitzkoppe](images/traveling_2024_Namibie_day_8_spitzkoppe.jpg)
+![Spitzkoppe](images/2024_Namibie_day_8_spitzkoppe.jpg)
 
 *[Národní park Spitzkoppe](https://cs.wikipedia.org/wiki/Spitzkoppe), kterému se také přezdívá
 "Matterhorn of Namibia".*
@@ -683,7 +683,7 @@ zabarvuje skály za kempem do jasně oranžové barvy.
 
 &nbsp;
 
-![Spitzkoppe](images/traveling_2024_Namibie_day_9_spitzkoppe.jpg)
+![Spitzkoppe](images/2024_Namibie_day_9_spitzkoppe.jpg)
 
 *Ráno v NP Spitzkoppe.*
 
@@ -717,7 +717,7 @@ tedy nijak zvlášť neužil.
 
 &nbsp;
 
-![Pink Lake](images/traveling_2024_Namibie_day_9_pink_lake.jpg)
+![Pink Lake](images/2024_Namibie_day_9_pink_lake.jpg)
 
 *Pink Lake ve [Walvis Bay](https://cs.wikipedia.org/wiki/Walvis_Bay).*
 
@@ -743,7 +743,7 @@ pořád oči na šťopkách a vyhlížel tu podělanou značku. Když jsme k ní
 
 &nbsp;
 
-![Tropic of Capricorn](images/traveling_2024_Namibie_day_10_obratnik_kozoroha.jpg)
+![Tropic of Capricorn](images/2024_Namibie_day_10_obratnik_kozoroha.jpg)
 
 *Značka uprostřed ničeho. A já.*
 
@@ -756,7 +756,7 @@ se prošli malým městečkem a frčeli dál.
 
 &nbsp;
 
-![Solitaire](images/traveling_2024_Namibie_day_10_Solitaire.jpg)
+![Solitaire](images/2024_Namibie_day_10_Solitaire.jpg)
 
 *Vraky starých aut s osadě [Solitaire](https://en.wikipedia.org/wiki/Solitaire,_Namibia).*
 
@@ -801,7 +801,7 @@ které zamezilo tomu, aby se stromy v nejstarší poušti světa rozložily.
 
 &nbsp;
 
-![Deadvlei](images/traveling_2024_Namibie_day_11_Big_daddy.jpg)
+![Deadvlei](images/2024_Namibie_day_11_Big_daddy.jpg)
 
 *Jako spořič obrazovky dobrý, ne?*
 
@@ -813,7 +813,7 @@ v tu chvíli ani nechtělo věřit, že tady naše dovolená v podstatě končí
 
 &nbsp;
 
-![Deadvlei](images/traveling_2024_Namibie_day_11_Deadvlei.jpg)
+![Deadvlei](images/2024_Namibie_day_11_Deadvlei.jpg)
 
 *Bílá pláň, písečné duny a mrtvé stromy. To je [Deadvlei](https://en.wikipedia.org/wiki/Deadvlei).*
 
