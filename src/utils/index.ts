@@ -38,14 +38,12 @@ export function decodeTag(encodedTag: string) {
   return decodeURIComponent(encodedTag);
 }
 
-// 平铺标签并去重
 export const getUniqueTags = (posts: CollectionEntry<"blog">[]) => {
   const tags: string[] = posts
     .filter(post => !post.data.hide)
     .flatMap(post => post.data.tags)
-    // 进行url编码
     .map(tag => encodeTag(tag));
-  return [...new Set(tags)];
+  return [...new Set(tags)].sort();
 };
 
 export const getPostsByTag = (
