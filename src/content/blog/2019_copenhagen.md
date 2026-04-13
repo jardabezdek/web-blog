@@ -339,11 +339,9 @@ do Brna, kam jsme vlivem zpoždění dorazili až kolem 20:30.
 nepřipadalo v úvahu, např.:
   - metrem se dá z letiště se do centra města dostat za 20 minut,
   - metro nikdo neřídí,
-  - Dánové nemají závěsy a minimálně používají žaluzie, takže z ulice lze vidět
-  skoro každému až do kuchyně,
-  - prakticky každé kolo, které člověk ve městě vidí, vypadá jako kolo z
-  [Bajkazylu](http://www.bajkazylbrno.cz/#cyklodilna),
-  - oblečení, příkladem může být třeba [tato bunda](images/rains_coat.jpg) dánské oděvní značky [Rains](https://www.rains.com/).
+  - Dánové nemají závěsy a minimálně používají žaluzie, takže z ulice lze vidět skoro každému až do kuchyně,
+  - prakticky každé kolo, které člověk ve městě vidí, vypadá jako kolo z [Bajkazylu](http://www.bajkazylbrno.cz/#cyklodilna),
+  - oblečení, příkladem může být třeba bunda dánské oděvní značky [Rains](https://www.rains.com/).
 - Počasí (zvláště) v prosinci je chladné.
 - Budovy v industriálních částech města, které nejsou ozdobeny vánočními dekoracemi,
 jsou chladné.

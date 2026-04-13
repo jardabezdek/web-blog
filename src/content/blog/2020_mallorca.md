@@ -124,9 +124,7 @@ do auta a trošku se přiblížili k místnímu [Burger Kingu](https://www.burge
 Zbytek jsme došli pěšky. Ten večer jsem si dal hamburger s vejcem a hranolkama.
 Byl první den, takže mi jídlo z fast foodu ještě relativně chutnalo.
 
-Po večeři pršet přestalo, takže jsme se alespoň prošli po
-[místní promenádě](images/promenada_Port_de_Pollenca.jpg) a
-v obchodě nakoupili jídlo na další dny.
+Po večeři pršet přestalo, takže jsme se alespoň prošli po [místní promenádě](https://www.pollensa.com/en/discover-pollenca/places-of-interest/boardwalk-of-port-de-pollenca) a v obchodě nakoupili jídlo na další dny.
 
 &nbsp;
 
